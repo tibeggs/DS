@@ -23,10 +23,10 @@
 	"item": [
 		{
 			"name": "Gallon of Water",
-			"type": "G",
+			"type": "p",
 			"armor": false,
 			"rarity": "none",
-			"value": ".2",
+			"value": "2",
 			"weight": 8,
 			"entries": [
 				"A Gallon of Water"
