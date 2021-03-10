@@ -23,7 +23,7 @@
 	"item": [
 		{
 			"name": "Gallon of Water",
-			"type": "p",
+			"type": "P",
 			"armor": false,
 			"rarity": "none",
 			"value": "2",
