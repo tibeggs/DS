@@ -32,6 +32,30 @@
 				"A Gallon of Water"
 			],
 			"source": "IDS"
+		},
+		{
+			"name": "Mug of Water",
+			"type": "P",
+			"armor": false,
+			"rarity": "none",
+			"value": "1",
+			"weight": 1,
+			"entries": [
+				"A Mug of Water"
+			],
+			"source": "IDS"
+		},
+		{
+			"name": "Tun of Water (250 Gallons)",
+			"type": "P",
+			"armor": false,
+			"rarity": "none",
+			"value": "400",
+			"weight": 2000,
+			"entries": [
+				"Tun of Water (250 gallons)."
+			],
+			"source": "IDS"
 		}
 	]
 }
